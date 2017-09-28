@@ -1,4 +1,4 @@
-# pykinect3.6
+# pykinect-python3.6
 This is modified version of orginal pykinect library by Microsoft with added support for python 3.6.
 Original pykinect is only supported for CPython 2.6.
 This library is tested on Windows 8.1 using Kinect Xbox 360 Model 1414.
