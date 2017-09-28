@@ -9,3 +9,5 @@ This library is tested on Windows 8.1 using Kinect Xbox 360 Model 1414.
 3) Install Numpy, Matplotlib , OpenCV , Pygame using pip3 install numpy, matplotlib, pygame
 4) Download zip, unpack it and copy pykinect folder to \Python36\Lib\site-packages
 5) For testing run kinect.py from examples 
+
+The modification of the library helped for using Kinect Xbox 360 (Original Kinect model 1414) with Python 3.6.  
